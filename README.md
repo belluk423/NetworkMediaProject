@@ -1,2 +1,0 @@
-# NetworkMediaProject
-NetworkMedia Final Project
